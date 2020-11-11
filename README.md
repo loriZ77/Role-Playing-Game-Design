@@ -1,4 +1,4 @@
-# Role-Playing-Game-Design# Homework 2 -- Role Playing Games
+# Role Playing Games Design
 <br>
 
 > This design is to present a solution in order to show different types of gears for a character in RPG game, comparison between two characters and the result of battle is further implemented in main class.
